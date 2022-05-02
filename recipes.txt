@@ -8,6 +8,9 @@ MAGGI
 burger
 
 
+pizza
+beans
+
 
 thank you
 
